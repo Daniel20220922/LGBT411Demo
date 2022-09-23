@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ROT9YpgkBbCVaDSOlMXTn62w9kzyOrWpX6O1JKZzU1N7eCjaKM1B9Xwcm9LHnPlaqJBQTPDRE9UbIcLZuJyXTw==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\LGBT411Demo\\LGBT411Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator.DESKTOP-10S300I\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator.DESKTOP-10S300I\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Administrator.DESKTOP-10S300I\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Administrator.DESKTOP-10S300I\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Administrator.DESKTOP-10S300I\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Administrator.DESKTOP-10S300I\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
