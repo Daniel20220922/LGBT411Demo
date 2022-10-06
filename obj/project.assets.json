@@ -230,11 +230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\LGBT411Demo\\LGBT411Demo.csproj",
+      "projectUniqueName": "D:\\Git\\LGBT411Demo\\LGBT411Demo\\LGBT411Demo.csproj",
       "projectName": "LGBT411Demo",
-      "projectPath": "D:\\Git\\LGBT411Demo\\LGBT411Demo.csproj",
+      "projectPath": "D:\\Git\\LGBT411Demo\\LGBT411Demo\\LGBT411Demo.csproj",
       "packagesPath": "C:\\Users\\Administrator.DESKTOP-10S300I\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\LGBT411Demo\\obj\\",
+      "outputPath": "D:\\Git\\LGBT411Demo\\LGBT411Demo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ROT9YpgkBbCVaDSOlMXTn62w9kzyOrWpX6O1JKZzU1N7eCjaKM1B9Xwcm9LHnPlaqJBQTPDRE9UbIcLZuJyXTw==",
+  "dgSpecHash": "8OWrchiYZzHBI0oIqNI5bhS8zDoSeigLS0gOAYNI40EKNNpE2Q9hIc1BiwMUjlqzuijAwEqWpBIoSgffLCgnNA==",
   "success": true,
-  "projectFilePath": "D:\\Git\\LGBT411Demo\\LGBT411Demo.csproj",
+  "projectFilePath": "D:\\Git\\LGBT411Demo\\LGBT411Demo\\LGBT411Demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator.DESKTOP-10S300I\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Administrator.DESKTOP-10S300I\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
